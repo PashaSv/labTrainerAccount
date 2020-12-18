@@ -1,0 +1,10 @@
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\bin\Debug\labTrainerAccount.exe.config
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\bin\Debug\labTrainerAccount.exe
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\bin\Debug\labTrainerAccount.pdb
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.csprojAssemblyReference.cache
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.Form1.resources
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.Properties.Resources.resources
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.csproj.GenerateResource.cache
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.csproj.CoreCompileInputs.cache
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.exe
+C:\Users\nlev2\Source\Repos\visualstudio2\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.pdb

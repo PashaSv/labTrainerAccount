@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\bin\Debug\labTrainerAccount.exe.config
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\bin\Debug\labTrainerAccount.exe
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\bin\Debug\labTrainerAccount.pdb
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labExam.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.Form1.resources
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.Properties.Resources.resources
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labExam.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labExam.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.exe
+C:\Users\asus\Desktop\labTrainerAccount\labTrainerAccount\obj\Debug\labTrainerAccount.pdb
